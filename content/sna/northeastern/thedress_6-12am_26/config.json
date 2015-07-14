@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "text": "Devin Gaffney",
+    "file": "",
+    "link": "http://devingaffney.com/sna/northeastern/thedress_6-12am_26"
+  },
+  "text": {
+    "title": "#TheDress activity, 6pm - 12am, February 26",
+    "more": "",
+    "intro": "Twitter graph of users using the hashtag #TheDress, February 26th, 6pm-10pm. Color is by group, size is by number of times they used the term #TheDress (max is 11, min is 1)"
+  },
+  "legend": {
+    "edgeLabel": "Mention in Tweet Text (include RT)",
+    "colorLabel": "Group",
+    "nodeLabel": "Twitter Account"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": false,
+    "hoverBehavior": "dim"
+  },
+  "informationPanel": {
+    "imageAttribute": false,
+    "groupByEdgeDirection": false
+  },
+  "sigma": {
+    "graphProperties": {
+      "minEdgeSize": 0.2,
+      "maxNodeSize": 7,
+      "maxEdgeSize": 0.5,
+      "minNodeSize": 1
+    },
+    "drawingProperties": {
+      "labelThreshold": 10,
+      "hoverFontStyle": "bold",
+      "defaultEdgeType": "curve",
+      "defaultLabelColor": "#000",
+      "defaultLabelHoverColor": "#fff",
+      "defaultLabelSize": 14,
+      "activeFontStyle": "bold",
+      "fontStyle": "bold",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd"
+    },
+    "mouseProperties": {
+      "minRatio": 0.75,
+      "maxRatio": 20
+    }
+  }
+}

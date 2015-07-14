@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "text": "NULab",
+    "file": "http://www.yourdefaulthomepage.com/nulab.png",
+    "link": "http://www.northeastern.edu/nulab/"
+  },
+  "text": {
+    "title": "Coauthorship Network of the NULab",
+    "more": "Methods: Data was collected off of Google Scholar for all available NULab members (or members who have active NULab Google Scholar Profiles). All attempts were made to collect the full publication history for each member, and metadata about each publication, such as number of citations, was captured. Then, authors were mildly processed through a name disambiguation scheme, and complete subgraphs were drawn for all papers where people coauthored. Note that the citation counts are only gathered through NULab members, so citation scores outside the context of work done by NULab is not present.",
+    "intro": "A look at who in the NULab is publishing research with whom\t\t"
+  },
+  "legend": {
+    "edgeLabel": "Coauthorship",
+    "colorLabel": "Community",
+    "nodeLabel": "Author"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": false,
+    "hoverBehavior": "dim"
+  },
+  "informationPanel": {
+    "imageAttribute": false,
+    "groupByEdgeDirection": false
+  },
+  "sigma": {
+    "graphProperties": {
+      "minEdgeSize": 0.2,
+      "maxNodeSize": 7,
+      "maxEdgeSize": 0.5,
+      "minNodeSize": 1
+    },
+    "drawingProperties": {
+      "labelThreshold": 10,
+      "hoverFontStyle": "bold",
+      "defaultEdgeType": "curve",
+      "defaultLabelColor": "#000",
+      "defaultLabelHoverColor": "#fff",
+      "defaultLabelSize": 14,
+      "activeFontStyle": "bold",
+      "fontStyle": "bold",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd"
+    },
+    "mouseProperties": {
+      "minRatio": 0.75,
+      "maxRatio": 20
+    }
+  }
+}
