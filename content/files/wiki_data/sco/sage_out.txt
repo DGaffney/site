@@ -1,0 +1,164 @@
+Attempting to load remote file: http://devingaffney.com/files/wiki_data/sco/sco_data.txt
+Loading: [.............]
+
+GRAPH
+Total articles: 1651
+Degree histogram:
+1 38
+2 214
+3 191
+4 132
+5 124
+6 98
+7 88
+8 59
+9 41
+10 35
+11 31
+12 22
+13 15
+14 22
+15 12
+16 12
+17 21
+18 16
+19 5
+20 8
+21 11
+22 7
+23 7
+24 8
+25 6
+26 1
+27 3
+28 3
+29 3
+30 22
+31 76
+32 191
+33 51
+34 26
+35 8
+36 6
+37 5
+39 2
+40 1
+41 1
+42 3
+43 3
+44 2
+45 2
+46 1
+47 1
+48 2
+49 1
+50 1
+52 1
+53 1
+59 1
+61 1
+64 1
+68 1
+72 1
+78 1
+89 1
+95 1
+104 1
+118 1
+186 1
+
+GRAPH : LARGEST CONNECTED COMPONENT
+Total articles in largest connected component: 1578
+Diameter of largest connected component: 10
+Average path length: 3.77257955957
+Clustering Average: 0.403176903392
+Degree Total: 12.6178073895
+Number of Cliques 32
+
+DIGRAPH
+Degree histogram:
+1 38
+2 182
+3 151
+4 153
+5 113
+6 89
+7 85
+8 68
+9 62
+10 33
+11 32
+12 34
+13 21
+14 19
+15 21
+16 9
+17 20
+18 10
+19 6
+20 12
+21 11
+22 8
+23 5
+24 12
+25 9
+26 4
+27 7
+28 2
+29 3
+30 4
+31 4
+32 7
+34 2
+35 2
+36 1
+37 3
+38 4
+39 1
+40 1
+41 1
+42 2
+43 2
+45 1
+46 2
+47 1
+50 1
+55 1
+58 1
+59 22
+60 3
+61 71
+62 30
+63 164
+64 36
+65 21
+66 13
+67 1
+68 5
+69 1
+70 2
+71 1
+74 1
+78 1
+81 1
+83 1
+84 1
+85 3
+86 1
+87 2
+89 1
+90 1
+93 1
+94 1
+99 1
+100 1
+102 1
+124 1
+129 1
+213 1
+
+DIGRAPH : LARGEST CONNECTED COMPONENT
+Total articles in largest connected component: 1578
+Average path length: 3.77257955957
+Clustering Average: 0.323412926527
+Degree Total: 10.2513628104

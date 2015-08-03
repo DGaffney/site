@@ -1,0 +1,220 @@
+         	
+
+Attempting to load remote file:
+http://devingaffney.com/files/wiki_data/pdc/pdc_data.txt
+Loading: [...]
+
+GRAPH
+Total articles: 691
+Degree histogram:
+1 38
+2 174
+3 119
+4 92
+5 78
+6 51
+7 20
+8 10
+9 10
+10 12
+11 7
+12 5
+13 2
+14 11
+15 4
+16 5
+17 3
+18 3
+19 1
+20 4
+21 1
+23 1
+24 1
+25 2
+26 1
+28 1
+30 14
+31 5
+33 2
+34 2
+37 1
+38 1
+41 1
+42 1
+43 1
+50 1
+53 1
+62 1
+75 1
+83 1
+84 1
+132 1
+
+GRAPH : LARGEST CONNECTED COMPONENT
+Total articles in largest connected component: 642
+Diameter of largest connected component: 9
+Average path length: 3.50323657573
+Clustering Average: 0.236183699011
+Degree Total: 5.53979739508
+Number of Cliques 26
+
+DIGRAPH
+Degree histogram:
+1 38
+2 152
+3 109
+4 78
+5 72
+6 69
+7 35
+8 15
+9 14
+10 8
+11 6
+12 13
+13 3
+14 2
+15 3
+16 6
+17 6
+18 1
+20 4
+21 2
+22 1
+23 3
+24 6
+25 4
+27 1
+28 1
+29 2
+31 1
+38 1
+39 1
+41 2
+49 1
+50 2
+53 14
+54 5
+56 1
+57 3
+59 1
+76 1
+91 1
+94 1
+97 1
+140 1
+
+DIGRAPH : LARGEST CONNECTED COMPONENT
+Total articles in largest connected component: 642
+Average path length: 3.50323657573
+Clustering Average: 0.10948716713
+Degree Total: 3.53835021708
+
+Attempting to load remote file: http://devingaffney.com/files/wiki_data/pdc/pdc_data.txt
+Loading: [...]
+
+GRAPH
+Total articles: 691
+Degree histogram:
+1 38
+2 174
+3 119
+4 92
+5 78
+6 51
+7 20
+8 10
+9 10
+10 12
+11 7
+12 5
+13 2
+14 11
+15 4
+16 5
+17 3
+18 3
+19 1
+20 4
+21 1
+23 1
+24 1
+25 2
+26 1
+28 1
+30 14
+31 5
+33 2
+34 2
+37 1
+38 1
+41 1
+42 1
+43 1
+50 1
+53 1
+62 1
+75 1
+83 1
+84 1
+132 1
+
+GRAPH : LARGEST CONNECTED COMPONENT
+Total articles in largest connected component: 642
+Diameter of largest connected component: 9
+Average path length: 3.50323657573
+Clustering Average: 0.236183699011
+Degree Total: 5.53979739508
+Number of Cliques 26
+
+DIGRAPH
+Degree histogram:
+1 38
+2 152
+3 109
+4 78
+5 72
+6 69
+7 35
+8 15
+9 14
+10 8
+11 6
+12 13
+13 3
+14 2
+15 3
+16 6
+17 6
+18 1
+20 4
+21 2
+22 1
+23 3
+24 6
+25 4
+27 1
+28 1
+29 2
+31 1
+38 1
+39 1
+41 2
+49 1
+50 2
+53 14
+54 5
+56 1
+57 3
+59 1
+76 1
+91 1
+94 1
+97 1
+140 1
+
+DIGRAPH : LARGEST CONNECTED COMPONENT
+Total articles in largest connected component: 642
+Average path length: 3.50323657573
+Clustering Average: 0.10948716713
+Degree Total: 3.53835021708
