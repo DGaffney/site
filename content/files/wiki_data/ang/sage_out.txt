@@ -1,0 +1,143 @@
+Attempting to load remote file: http://devingaffney.com/files/wiki_data/ang/ang_data.txt
+Loading: [....]
+
+GRAPH
+Total articles: 526
+Degree histogram:
+1 25
+2 77
+3 63
+4 47
+5 42
+6 28
+7 25
+8 11
+9 15
+10 17
+11 6
+12 7
+13 3
+14 5
+15 2
+16 2
+17 1
+18 3
+20 1
+22 2
+23 1
+24 2
+25 2
+26 5
+27 1
+28 4
+29 4
+30 1
+31 1
+32 4
+33 36
+35 2
+36 2
+37 5
+38 6
+39 1
+40 3
+41 4
+42 3
+43 1
+44 3
+45 19
+46 9
+47 10
+48 4
+49 1
+50 2
+52 2
+53 1
+56 1
+62 1
+64 1
+66 1
+71 1
+
+GRAPH : LARGEST CONNECTED COMPONENT
+Total articles in largest connected component: 441
+Diameter of largest connected component: 9
+Average path length: 3.40780847486
+Clustering Average: 0.395666774757
+Degree Total: 13.4030418251
+Number of Cliques 44
+
+DIGRAPH
+Degree histogram:
+1 25
+2 62
+3 63
+4 48
+5 34
+6 21
+7 28
+8 20
+9 17
+10 10
+11 1
+12 9
+13 4
+14 6
+15 5
+16 7
+17 9
+18 3
+19 1
+20 3
+21 2
+22 2
+23 1
+25 1
+26 3
+28 2
+29 2
+30 3
+31 2
+32 3
+33 2
+35 3
+36 3
+37 1
+38 1
+40 3
+41 1
+42 3
+43 3
+44 2
+47 1
+51 1
+59 1
+60 1
+63 32
+64 5
+65 4
+66 2
+67 2
+68 1
+69 4
+70 1
+71 3
+76 2
+77 1
+78 1
+81 1
+82 1
+86 16
+87 11
+88 8
+89 3
+90 1
+91 2
+92 1
+93 1
+
+DIGRAPH : LARGEST CONNECTED COMPONENT
+Total articles in largest connected component: 441
+Average path length: 3.40780847486
+Clustering Average: 0.274295072402
+Degree Total: 10.4619771863
